@@ -9,9 +9,9 @@ The bearing holes are intentionally undersized.  In order to get a snug fit, you
 
 ## BOM
 In addition to the stock four GT2 9mm Pulleys you will need:
-16 - F695 bearings
-4 - additional GT2 9mm Pulleys
-4 - 30mm D cut 5mm diameter shafts (for the idler pulley)
+- 16 - F695 bearings
+- 4 - additional GT2 9mm Pulleys
+- 4 - 30mm D cut 5mm diameter shafts (for the idler pulley)
 
 If you are using 8mm shafts and couplers swap all bearings to MF148 and all shafts to 8mm diameter
 
