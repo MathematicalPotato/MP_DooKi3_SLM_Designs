@@ -15,7 +15,13 @@ In addition to the stock four GT2 9mm Pulleys you will need:
 
 If you are using 8mm shafts and couplers swap all bearings to MF148 and all shafts to 8mm diameter
 
+## Images
+X Drive:
 ![DooKi3_SLM_XDrive_F695](Images/DooKi3_SLM_XDrive_F695.png)
+
+Y Drives:
 ![DooKi3_SLM_YDrive_F695](Images/DooKi3_SLM_YDrive_F695.png)
+
+XY Assembly:
 ![DooKi3_SLM_XY_Assembly](Images/DooKi3_SLM_XY_Assembly.png)
 
