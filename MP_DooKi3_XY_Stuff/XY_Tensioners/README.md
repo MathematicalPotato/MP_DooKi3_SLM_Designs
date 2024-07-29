@@ -2,6 +2,8 @@
 These files are designed to be SLM printed out of aluminum.
 
 ## Notes
+The Y Spacers are modeled as 20mm tall.  It would most likely be a good idea to stretch these parts slightly taller to account for SLM shrinkage.  They will need sanded to the correct dimensions based on the rails and toolhead used for the machine.
+
 These should be the approximate weights for these parts in aluminum:
 - MP_DooKi3_SLM_XY_Tensioner: 14.1g
 - MP_DooKi3_SLM_XY_Rail_Mount: 3.9g
