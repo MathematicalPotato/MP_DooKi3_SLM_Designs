@@ -1,5 +1,5 @@
 # SLM parts for the X, Y, and Z Axis of DooKi3 or Annex Engineering K3
-These files are designed to be SLM printed out of aluminum.
+These files are designed to be SLM printed out of aluminum.  All files in this repo are still a WIP.  Do not order parts unless you are prepared for post-processing ill-fitting parts or worst-case scraping a whole batch of parts.
 
 ### !!! Please read all the notes in the READMEs for any parts you plan to order. !!!
 
