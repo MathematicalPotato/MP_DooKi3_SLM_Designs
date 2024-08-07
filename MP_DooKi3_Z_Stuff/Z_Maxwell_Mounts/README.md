@@ -19,6 +19,7 @@ These should be the approximate weights for these parts in aluminum:
   - V2 have updated clearances and should be slightly lighter
 - Updated all Z maxwell mounts to V3.
   - This version uses clamps instead of set screws to hold the shafts in place.  This removes the need for post-processing the 8mm shaft hole to ensure fitment.
+  - Added indexing lips to the bottoms to help with alignment during installation.
   - There are two clamp designs:
     - MP_DooKi3_SLM_Z_Maxwell_ClampPlate_V3_x3.dxf
       - This version is the recommended option.  You will need to get this DXF lasercut.  Mild steel in 3mm thickness is recommended as it should be cheaper and stronger than aluminum.
