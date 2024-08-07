@@ -21,6 +21,7 @@ If you are using 8mm shafts and couplers swap all bearings to MF148 and all shaf
   - V1 are the original files
   - V2 have updated clearances and should be slightly lighter
 - Updated XY idlers to V3 to allow for better clearances.
+  - V3 will need the left Y rail shifted 10.5mm towards the front of the machine and the right Y rial shifted 10.5mm towards the rear of the machine.  This will allow for the idler stacks to be more easily removeable like the current Annex Engineering K3 625 bearing mounts.  All of the mounting bolts are oriented to thread into T-nuts in the vertical extrusions so shorter than standard allen wrenches are no longer needed. 
 
 ## Images
 X Drive:
