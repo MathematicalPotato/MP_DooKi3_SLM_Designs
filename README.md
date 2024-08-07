@@ -7,9 +7,9 @@ These files are designed to be SLM printed out of aluminum.  All files in this r
 There are a few different versions of the tensioning slider with different clearances.  At this time it is recommended to get the thickest version (+0.15) and sand to size. The machine will need a minimum of 7 tensioning sliders (4 for XY and 3 for Z).  As of August 7th 2024 the XY and Z tensioners have been updated to V3 and allow for the use of 10mm belts.  This is the version that is recommended even for 9mm belts and requires the slightly wider tensioning sliders.
 
 ## SLM XY Idlers - Live shafts and full sized pulleys:
-![DooKi3_SLM_XY_Assembly](MP_DooKi3_XY_Stuff/XY_Idlers/Images/DooKi3_SLM_XY_Assembly.png)
-![DooKi3_SLM_XDrive_F695](MP_DooKi3_XY_Stuff/XY_Idlers/Images/DooKi3_SLM_XDrive_F695.png)
-![DooKi3_SLM_YDrive_F695](MP_DooKi3_XY_Stuff/XY_Idlers/Images/DooKi3_SLM_YDrive_F695.png)
+![DooKi3_SLM_XY_Assembly](MP_DooKi3_XY_Stuff/XY_Idlers/Images/DooKi3_SLM_XY_Assembly_V3.png)
+![DooKi3_SLM_XDrive_F695](MP_DooKi3_XY_Stuff/XY_Idlers/Images/DooKi3_SLM_XDrive_F695_V3.png)
+![DooKi3_SLM_YDrive_F695](MP_DooKi3_XY_Stuff/XY_Idlers/Images/DooKi3_SLM_YDrive_F695_V3.png)
 
 ## SLM XY Tensioners
 ![XY_Tensioner_1](MP_DooKi3_XY_Stuff/XY_Tensioners/Images/XY_Tensioner_1.png)
