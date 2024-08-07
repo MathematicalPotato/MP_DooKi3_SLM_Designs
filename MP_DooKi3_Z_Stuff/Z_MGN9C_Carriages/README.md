@@ -5,9 +5,8 @@ These files are designed to be SLM printed out of aluminum.
 Fronts will need M3x20 bolts for mounting instead of the stock M3x25.
 
 These should be the approximate weights for these parts in aluminum:
-- MP_DooKi3_SLM_Z_MGN9C_Front: 19.2g
-- MP_DooKi3_SLM_Z_MGN9C_Front_Mirror: 19.2g
-- MP_DooKi3_SLM_Z_MGN9C_Rear: 17.6g
+- MP_DooKi3_SLM_Z_MGN9C_Front_V3: 19.6g
+- MP_DooKi3_SLM_Z_MGN9C_Rear_V3: 18.6g
 
 ## Updates
 ### 2024-08-07
