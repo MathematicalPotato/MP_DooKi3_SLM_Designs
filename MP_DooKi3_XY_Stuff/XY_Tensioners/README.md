@@ -18,3 +18,12 @@ Total:
 ![XY_Tensioner_2](Images/XY_Tensioner_2.png)
 ![XY_Tensioner_3](Images/XY_Tensioner_3.png)
 
+## Updates
+### 2024-08-07
+- Reorganized the outdated parts folder and added version numbers for better tracking.
+  - V1 are the original files
+  - V2 have updated clearances and should be slightly lighter
+- Updated XY tensioners to V3 to allow for the use of up to 10mm wide belts.
+  - This version is also compatible with 9mm belts and is recommended for all belt thicknesses.
+  - This version will require the use of the 10mm versions of the tensioning sliders.
+
