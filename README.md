@@ -17,6 +17,6 @@ There are a few different versions of the tensioning slider with different clear
 ![XY_Tensioner_3](MP_DooKi3_XY_Stuff/XY_Tensioners/Images/XY_Tensioner_3.png)
 
 ## SLM Z Maxwell Mounts and MGN9C Carriages
-![Z_Front](MP_DooKi3_Z_Stuff/Images/Z_Front.png)
-![Z_Rear](MP_DooKi3_Z_Stuff/Images/Z_Rear.png)
+![Z_Front](MP_DooKi3_Z_Stuff/Images/Z_Front_V3.png)
+![Z_Rear](MP_DooKi3_Z_Stuff/Images/Z_Rear_V3.png)
 
