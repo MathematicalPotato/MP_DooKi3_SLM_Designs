@@ -10,8 +10,7 @@ All idlers will need two M3x4 set screws. The rear idler now uses two M5x10 for 
 
 These should be the approximate weights for these parts in aluminum:
 
-- MP_DooKi3_SLM_Z_Idler_Front: 24.3g
-- MP_DooKi3_SLM_Z_Idler_Front_Mirror: 24.3g
+- MP_DooKi3_SLM_Z_Idler_Front: 23.8g
 - MP_DooKi3_SLM_Z_Idler_Rear: 37.4g
 
 ## Updates
