@@ -7,12 +7,13 @@ All bearings have been swapped to F695.
 
 The bearing holes are intentionally undersized.  In order to get a snug fit, you will need to first drill and then ream the holes to size.
 
-MP_DooKi3_SLM_XY_XDrive_F695_V3: 42.7g
-MP_DooKi3_SLM_XY_YDrive_F695_V3: 41.6g
-MP_DooKi3_SLM_XY_XMAX_V3: 6.2g
-MP_DooKi3_SLM_XY_XMAX_Mirrored_V3: 6.2g 
-MP_DooKi3_SLM_XY_YMIN_V3: 6.9g
-MP_DooKi3_SLM_XY_YMIN_Mirrored_V3: 6.9g
+### Approximate part weights
+- MP_DooKi3_SLM_XY_XDrive_F695_V3: 42.7g
+- MP_DooKi3_SLM_XY_YDrive_F695_V3: 41.6g
+- MP_DooKi3_SLM_XY_XMAX_V3: 6.2g
+- MP_DooKi3_SLM_XY_XMAX_Mirrored_V3: 6.2g 
+- MP_DooKi3_SLM_XY_YMIN_V3: 6.9g
+- MP_DooKi3_SLM_XY_YMIN_Mirrored_V3: 6.9g
 
 ## BOM
 In addition to the stock four GT2 9mm Pulleys you will need:
