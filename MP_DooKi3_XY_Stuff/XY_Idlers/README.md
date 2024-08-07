@@ -1,7 +1,7 @@
 # SLM Printable XY Idlers for the Annex Engineering K3
 These drives are designed to be SLM printed in aluminum (or other metals for $$$).  They allow for the toothed idlers to be changed to a full sized pulley with double shear.  Full sized bearings can take a lot more load than the smaller toothed idler bearings.  This should allow for full tension GT3 belts.
 
-All bearings have been swapped to F695, the only exception are the files labeled for MF148 bearings.  There was one request to have the option to use 8mm shafts with couplers so I have included that option as well.
+All bearings have been swapped to F695.
 
 ## Important Note
 
