@@ -8,3 +8,12 @@ These should be the approximate weights for these parts in aluminum:
 - MP_DooKi3_SLM_Z_MGN9C_Front: 19.2g
 - MP_DooKi3_SLM_Z_MGN9C_Front_Mirror: 19.2g
 - MP_DooKi3_SLM_Z_MGN9C_Rear: 17.6g
+
+## Updates
+### 2024-08-07
+- Reorganized the outdated parts folder and added version numbers for better tracking.
+  - V1 are the original files
+  - V2 have updated clearances and should be slightly lighter
+- Updated all Z MGN9C carriages to V3 to allow for the use of up to 10mm wide belts.
+  - This version is also compatible with 9mm belts and is recommended for all belt thicknesses.
+  - This version will require the use of the 10mm versions of the tensioning sliders.
