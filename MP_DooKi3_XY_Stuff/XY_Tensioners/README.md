@@ -15,11 +15,6 @@ Total:
 - X total: 16.4g per side
 - Y total: 22.6g per side
 
-## Images
-![XY_Tensioner_1](Images/XY_Tensioner_1.png)
-![XY_Tensioner_2](Images/XY_Tensioner_2.png)
-![XY_Tensioner_3](Images/XY_Tensioner_3.png)
-
 ## Updates
 ### 2024-08-07
 - Reorganized the outdated parts folder and added version numbers for better tracking.
@@ -29,3 +24,7 @@ Total:
   - This version is also compatible with 9mm belts and is recommended for all belt thicknesses.
   - This version will require the use of the 10mm versions of the tensioning sliders.
 
+## Images
+![XY_Tensioner_1](Images/XY_Tensioner_1.png)
+![XY_Tensioner_2](Images/XY_Tensioner_2.png)
+![XY_Tensioner_3](Images/XY_Tensioner_3.png)
