@@ -27,7 +27,7 @@ If you are using 8mm shafts and couplers swap all bearings to MF148 and all shaf
 ### X Drive:
 ![DooKi3_SLM_XDrive_F695](Images/DooKi3_SLM_XDrive_F695_V3.png)
 
-### Y Drives:
+### Y Drive:
 ![DooKi3_SLM_YDrive_F695](Images/DooKi3_SLM_YDrive_F695_V3.png)
 
 ### XY Assembly:
