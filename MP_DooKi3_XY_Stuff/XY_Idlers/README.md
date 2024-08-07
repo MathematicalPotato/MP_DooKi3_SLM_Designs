@@ -11,9 +11,16 @@ The bearing holes are intentionally undersized.  In order to get a snug fit, you
 In addition to the stock four GT2 9mm Pulleys you will need:
 - 16 - F695 bearings
 - 4 - additional GT2 9mm Pulleys
-- 4 - 30mm D cut 5mm diameter shafts (for the idler pulley)
+- 4 - 35mm D cut 5mm diameter shafts (for the idler pulley)
 
 If you are using 8mm shafts and couplers swap all bearings to MF148 and all shafts to 8mm diameter
+
+## Updates
+### 2024-08-07
+- Reorganized the outdated parts folder and added version numbers for better tracking.
+  - V1 are the original files
+  - V2 have updated clearances and should be slightly lighter
+- Updated XY idlers to V3 to allow for better clearances.
 
 ## Images
 X Drive:
@@ -24,4 +31,5 @@ Y Drives:
 
 XY Assembly:
 ![DooKi3_SLM_XY_Assembly](Images/DooKi3_SLM_XY_Assembly.png)
+
 
