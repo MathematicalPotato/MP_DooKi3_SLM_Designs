@@ -13,3 +13,7 @@ These should be the approximate weights for these parts in aluminum:
 - MP_DooKi3_SLM_Z_Idler_Front: 24.3g
 - MP_DooKi3_SLM_Z_Idler_Front_Mirror: 24.3g
 - MP_DooKi3_SLM_Z_Idler_Rear: 37.4g
+
+## Updates
+### 2024-08-07
+Updated the front Z idlers to V3 with chamfers added to have better clearances.
