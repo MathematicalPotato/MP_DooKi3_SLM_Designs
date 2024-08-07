@@ -17,4 +17,6 @@ These should be the approximate weights for these parts in aluminum:
 ## Updates
 ### 2024-08-07
 - Reorganized the outdated parts folder and added version numbers for better tracking.
+  - V1 are the original files
+  - V2 have updated clearances and should be slightly lighter
 - Updated the front Z idlers to V3 with chamfers added to have better clearances.
