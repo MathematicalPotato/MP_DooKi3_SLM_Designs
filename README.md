@@ -3,9 +3,9 @@ These files are designed to be SLM printed out of aluminum.  All files in this r
 
 ### !!! Please read all the notes in the READMEs for any parts you plan to order. !!!
 
-### Please use the STLs for printing.  If your specific setup requires modifications to some of the parts use the CAD, otherwise certain CAD files have been uploaded as assemblies and will not print properly if directly imported into print services.
-
 ## Notes
+Please use the STLs for printing.  If your specific setup requires modifications to some of the parts use the CAD, otherwise certain CAD files have been uploaded as assemblies and will not print properly if directly imported into print services.
+
 There are a few different versions of the tensioning slider with different clearances.  At this time it is recommended to get the thickest version (+0.15) and sand to size. The machine will need a minimum of 7 tensioning sliders (4 for XY and 3 for Z).  As of August 20th 2024 the Z tensioners have been updated to V3 to allow for the use of up to 10mm belts and the XY tensioners have been updated to V4 to allow for the use of either 9/10mm belts or 12mm belts.  This 10mm version is recommended even for 9mm belts and requires the 10mm tensioning sliders. 9/10mm belts will also work with the 12mm parts, but they will be slightly heavier and won't have any othewr benefits besides allowing the use of 12mm belt.
 
 ## SLM XY Idlers - Live shafts and full sized pulleys:
