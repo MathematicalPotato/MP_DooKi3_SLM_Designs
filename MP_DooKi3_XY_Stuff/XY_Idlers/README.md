@@ -16,8 +16,14 @@ The bearing holes are intentionally undersized.  In order to get a snug fit, you
 - MP_DooKi3_SLM_XY_YMIN_Mirrored_V3: 6.9g
 
 ## BOM
+### 9 or 10mm belts
 In addition to the stock four GT2 9mm Pulleys you will need:
-- 16 - F695 bearings
+- 16 - F695 bearings for 5mm shafts
+- 4 - additional GT2 9mm Pulleys
+- 4 - 35mm D cut 5mm diameter shafts (for the idler pulley)
+### 12mm belts
+In addition to the stock four GT2 9mm Pulleys you will need:
+- 16 - F695 bearings for 5mm shafts
 - 4 - additional GT2 9mm Pulleys
 - 4 - 35mm D cut 5mm diameter shafts (for the idler pulley)
 
@@ -29,7 +35,14 @@ If you are using 8mm shafts and couplers swap all bearings to MF148 and all shaf
   - V1 are the original files
   - V2 have updated clearances and should be slightly lighter
 - Updated XY idlers to V3 to allow for better clearances.
-  - V3 will need the left Y rail shifted 10.5mm towards the front of the machine and the right Y rial shifted 10.5mm towards the rear of the machine.  This will allow for the idler stacks to be more easily removeable like the current Annex Engineering K3 625 bearing mounts.  All of the mounting bolts are oriented to thread into T-nuts in the vertical extrusions so shorter than standard allen wrenches are no longer needed. 
+  - V3 will need the left Y rail shifted 10.5mm towards the front of the machine and the right Y rial shifted 10.5mm towards the rear of the machine.  This will allow for the idler stacks to be more easily removeable like the current Annex Engineering K3 625 bearing mounts.  All of the mounting bolts are oriented to thread into T-nuts in the vertical extrusions so shorter than standard allen wrenches are no longer needed.
+
+ ### 2024-08-20
+  - Updated parts to V6
+    - Converted to two part idlers instead of single part.  This should make them easier to print and post process (drill ream).
+    - All parts now have holes where button-head cap screws (BHCS) can be used to retain the bearings.
+    - The endstops have been combined into one printable file.
+    - There are two lower parts for the X drives. One for the front left drive and one for the rear right drive. 
 
 ## Images
 ### XY Assembly:
