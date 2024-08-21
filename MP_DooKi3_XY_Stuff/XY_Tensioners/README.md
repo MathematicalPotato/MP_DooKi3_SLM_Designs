@@ -7,13 +7,16 @@ The Y Spacers are modeled as 20mm tall.  It would most likely be a good idea to 
 The rail carriage mount only uses three bolts.  This allows the tensioner to remain installed with two bolts while the cross rails are removed so belt tension can be preserved during maintenance. 
 
 These should be the approximate weights for these parts in aluminum:
-- MP_DooKi3_SLM_XY_Tensioner_V3: 12.5g
+- MP_DooKi3_SLM_XY_Tensioner_V4_10mm: 12.9g
+- MP_DooKi3_SLM_XY_Tensioner_V4_12mm: 14.5g
 - MP_DooKi3_SLM_XY_Rail_Mount_V2: 3.9g
 - MP_DooKi3_SLM_Y_Spacer_V2: 6.2g
 
 Total:
-- X total: 16.4g per side
-- Y total: 22.6g per side
+- 10mm X total: 16.8g per side
+- 10mm Y total: 23.0g per side
+- 12mm X total: 18.3g per side
+- 12mm Y total: 24.6g per side
 
 ## Updates
 ### 2024-08-07
@@ -23,6 +26,11 @@ Total:
 - Updated XY tensioners to V3 to allow for the use of up to 10mm wide belts.
   - This version is also compatible with 9mm belts and is recommended for all belt thicknesses.
   - This version will require the use of the 10mm versions of the tensioning sliders.
+### 2024-08-20
+- Updated tensioners to V4
+  - This version adds tensioning parts that are compatible with 12mm wide belts
+    - 12mm will require the SLM idlers here: https://github.com/MathematicalPotato/MP_DooKi3_SLM_Designs/tree/main/MP_DooKi3_XY_Stuff/XY_Idlers.  See the README for additional considerations. 
+  - This version mainly included CAD workflow changes to make the tensioners easier to modify in the future.  This version is slightly heavier as a result.
 
 ## Images
 ![XY_Tensioner_1](Images/XY_Tensioner_1.png)
