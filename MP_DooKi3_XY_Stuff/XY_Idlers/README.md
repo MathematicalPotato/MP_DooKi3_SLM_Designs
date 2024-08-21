@@ -32,14 +32,14 @@ If you are using 8mm shafts and couplers swap all bearings to MF148 and all shaf
   - V3 will need the left Y rail shifted 10.5mm towards the front of the machine and the right Y rial shifted 10.5mm towards the rear of the machine.  This will allow for the idler stacks to be more easily removeable like the current Annex Engineering K3 625 bearing mounts.  All of the mounting bolts are oriented to thread into T-nuts in the vertical extrusions so shorter than standard allen wrenches are no longer needed. 
 
 ## Images
+### XY Assembly:
+![DooKi3_SLM_XY_Assembly](Images/DooKi3_SLM_XY_Assembly_V6.png)
+
 ### X Drive:
 ![DooKi3_SLM_XDriveFront_F695](Images/DooKi3_SLM_XDriveFront_F695_V6.png)
 ![DooKi3_SLM_XDriveRear_F695](Images/DooKi3_SLM_XDriveRear_F695_V6.png)
 
 ### Y Drive:
 ![DooKi3_SLM_YDrive_F695](Images/DooKi3_SLM_YDrive_F695_V6.png)
-
-### XY Assembly:
-![DooKi3_SLM_XY_Assembly](Images/DooKi3_SLM_XY_Assembly_V6.png)
 
 
