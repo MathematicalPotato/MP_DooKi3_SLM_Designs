@@ -46,19 +46,19 @@ You will need:
 - 4 - Couplers to attach the motor, see Annex BOM for recommendations
 
 ## Updates
+### 2024-08-20
+- Updated parts to V6
+  - Converted to two part idlers instead of single part.  This should make them easier to print and post process (drill ream).
+  - All parts now have holes where button-head cap screws (BHCS) can be used to retain the bearings.
+  - The endstops have been combined into one printable file.
+  - There are two lower parts for the X drives. One for the front left drive and one for the rear right drive. 
+
 ### 2024-08-07
 - Reorganized the outdated parts folder and added version numbers for better tracking.
   - V1 are the original files
   - V2 have updated clearances and should be slightly lighter
 - Updated XY idlers to V3 to allow for better clearances.
   - V3 will need the left Y rail shifted 10.5mm towards the front of the machine and the right Y rail shifted 10.5mm towards the rear of the machine.  This will allow for the idler stacks to be more easily removeable like the current Annex Engineering K3 625 bearing mounts.  All of the mounting bolts are oriented to thread into T-nuts in the vertical extrusions so shorter than standard allen wrenches are no longer needed.
-
- ### 2024-08-20
-  - Updated parts to V6
-    - Converted to two part idlers instead of single part.  This should make them easier to print and post process (drill ream).
-    - All parts now have holes where button-head cap screws (BHCS) can be used to retain the bearings.
-    - The endstops have been combined into one printable file.
-    - There are two lower parts for the X drives. One for the front left drive and one for the rear right drive. 
 
 ## Images
 ### XY Assembly:
