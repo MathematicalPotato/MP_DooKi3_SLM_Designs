@@ -15,6 +15,9 @@ These should be the approximate weights for these parts in aluminum:
 - MP_DooKi3_SLM_Z_Maxwell_Clamp_V3: 0.9g
 
 ## Updates
+### 2024-08-20
+- Added STLs.
+
 ### 2024-08-07
 - Reorganized the outdated parts folder and added version numbers for better tracking.
   - V1 are the original files
