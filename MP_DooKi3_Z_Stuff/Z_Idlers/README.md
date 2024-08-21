@@ -15,6 +15,7 @@ These should be the approximate weights for these parts in aluminum:
 
 ## Updates
 ### 2024-08-20
+- Added STLs.
 - Updated Fronts to V5 and Rear to V4.  The Fronts are slightly shorter to allow for the updated SLM XY Idlers.
   - They are still fully compatible with stock and allow full travel.
   - The rear has been revised to be reversible.  This allows it to work with stock setups (idler positioned at the top) or setups with very long hotends (idler positioned at the bottom).
