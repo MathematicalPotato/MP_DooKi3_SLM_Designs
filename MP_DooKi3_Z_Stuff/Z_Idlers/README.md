@@ -10,10 +10,16 @@ All idlers will need two M3x4 set screws. The rear idler now uses two M5x10 for 
 
 These should be the approximate weights for these parts in aluminum:
 
-- MP_DooKi3_SLM_Z_Idler_Front: 23.8g
-- MP_DooKi3_SLM_Z_Idler_Rear: 37.4g
+- MP_DooKi3_SLM_Z_Idler_Front: 14.5g
+- MP_DooKi3_SLM_Z_Idler_Rear: 27.2g
 
 ## Updates
+### 2024-08-20
+- Updated Fronts to V5 and Rear to V4.  The Fronts are slightly shorter to allow for the updated SLM XY Idlers.
+  - They are still fully compatible with stock and allow full travel.
+  - The rear has been revised to be reversible.  This allows it to work with stock setups (idler positioned at the top) or setups with very long hotends (idler positioned at the bottom).
+  - Weights have been significantly reduced for all as well.
+
 ### 2024-08-07
 - Reorganized the outdated parts folder and added version numbers for better tracking.
   - V1 are the original files
