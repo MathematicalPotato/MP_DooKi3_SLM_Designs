@@ -7,18 +7,25 @@ The Y Spacers are modeled as 20mm tall.  It would most likely be a good idea to 
 The rail carriage mount only uses three bolts.  This allows the tensioner to remain installed with two bolts while the cross rails are removed so belt tension can be preserved during maintenance. 
 
 These should be the approximate weights for these parts in aluminum:
-- MP_DooKi3_SLM_XY_Tensioner_V4_10mm: 12.9g
-- MP_DooKi3_SLM_XY_Tensioner_V4_12mm: 14.5g
+- MP_DooKi3_SLM_XY_Tensioner_V4_10mm: 13.9g
+- MP_DooKi3_SLM_XY_Tensioner_V4_12mm: 15.6g
 - MP_DooKi3_SLM_XY_Rail_Mount_V2: 3.9g
 - MP_DooKi3_SLM_Y_Spacer_V2: 6.2g
 
 Total:
-- 10mm X total: 16.8g per side
-- 10mm Y total: 23.0g per side
-- 12mm X total: 18.3g per side
-- 12mm Y total: 24.6g per side
+- 10mm X total: 17.8g per side
+- 10mm Y total: 24.0g per side
+- 12mm X total: 19.5g per side
+- 12mm Y total: 25.7g per side
 
 ## Updates
+
+### 2024-09-06
+- Updated tensioners to V5
+  - Widened belt slots to improve fitment and ease of insertion.
+- Updated rail mounts to V4
+  - Widened rail and magnet spaces for better fitment and clearances.
+ 
 ### 2024-08-20
 - Updated tensioners to V4
   - This version adds tensioning parts that are compatible with 12mm wide belts
