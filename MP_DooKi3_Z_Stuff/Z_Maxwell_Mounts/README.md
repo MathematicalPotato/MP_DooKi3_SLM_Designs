@@ -10,11 +10,15 @@ The 8mm shafts are designed to be held in with M3 bolts as set screws and/or ret
 It is recommended to use the DXFs to get mild steel plates cut as clamps instead of using the SLM printable files.  Plates will be significantly cheaper and will be stronger as well.
 
 These should be the approximate weights for these parts in aluminum:
-- MP_DooKi3_SLM_Z_Maxwell_Front_V3: 10.5g
-- MP_DooKi3_SLM_Z_Maxwell_Rear_V3: 10.0g
-- MP_DooKi3_SLM_Z_Maxwell_Clamp_V3: 0.9g
+- MP_DooKi3_SLM_Z_Maxwell_Front_V4: 10.4g
+- MP_DooKi3_SLM_Z_Maxwell_Rear_V4: 9.8g
+- MP_DooKi3_SLM_Z_Maxwell_Clamp_V4: 0.9g
 
 ## Updates
+### 2024-09-09
+- Updated all parts to V4
+  - Increased diameter of 8mm shaft hole to remove the need for drilling to size. 
+
 ### 2024-08-20
 - Added STLs.
 
