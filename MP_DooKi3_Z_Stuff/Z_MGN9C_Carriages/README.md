@@ -8,11 +8,12 @@ These should be the approximate weights for these parts in aluminum:
 - MP_DooKi3_SLM_Z_MGN9C_Front_V4: 19.5g
 - MP_DooKi3_SLM_Z_MGN9C_Rear_V4: 18.0g
 
+ 
+## Updates
 ### 2024-09-06
 - Updated to V4
   -Expanded belt paths for easier insertion.
-  
-## Updates
+
 ### 2024-08-20
 - Added STLs
 
