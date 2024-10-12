@@ -47,6 +47,9 @@ You will need:
 - 4 - Couplers to attach the motor, see Annex BOM for recommendations
 
 ## Updates
+### 2024-10-12
+- Reuploaded XDrive_BottomRear
+  - Fixed half-broken chamfers.
 ### 2024-08-20
 - Updated parts to V6
   - Converted to two part idlers instead of single part.  This should make them easier to print and post process (drill ream).
