@@ -15,6 +15,10 @@ These should be the approximate weights for these parts in aluminum:
 - MP_DooKi3_SLM_Z_Maxwell_Clamp_V4: 0.9g
 
 ## Updates
+### 2024-10-29
+- Updated mounts to V5
+  - Adjusted alignment nubs so there is clearance for larger M5 T-nuts
+
 ### 2024-09-09
 - Updated all parts to V4
   - Increased diameter of 8mm shaft hole to remove the need for drilling to size. 
