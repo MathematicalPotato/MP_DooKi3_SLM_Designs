@@ -10,8 +10,12 @@ These should be the approximate weights for these parts in aluminum:
 
  
 ## Updates
+### 2024-10-29
+- Updated to V5.
+  - Increased wall thickness for 2.4mm tapping holes to allow for better fitment of helicoils.
+
 ### 2024-09-06
-- Updated to V4
+- Updated to V4.
   -Expanded belt paths for easier insertion.
 
 ### 2024-08-20
@@ -19,8 +23,8 @@ These should be the approximate weights for these parts in aluminum:
 
 ### 2024-08-07
 - Reorganized the outdated parts folder and added version numbers for better tracking.
-  - V1 are the original files
-  - V2 have updated clearances and should be slightly lighter
+  - V1 are the original files.
+  - V2 have updated clearances and should be slightly lighter.
 - Updated all Z MGN9C carriages to V3 to allow for the use of up to 10mm wide belts.
   - This version is also compatible with 9mm belts and is recommended for all belt thicknesses.
   - This version will require the use of the 10mm versions of the tensioning sliders.
