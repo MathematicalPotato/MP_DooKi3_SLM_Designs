@@ -2,7 +2,11 @@
 These files are designed to be SLM printed out of aluminum.
 
 ## Notes
-The Y Spacers are modeled as 20mm tall.  It would most likely be a good idea to stretch these parts slightly taller to account for SLM shrinkage.  They will need sanded to the correct dimensions based on the rails and toolhead used for the machine.
+There are Y Spacers are modeled as 20 or 21mm tall.  I orderd the 20mm and they came out as 20.3-20.4mm.  They will need sanded to the correct dimensions based on the rails and toolhead used for the machine.
+The following Y Spacer thicknesses are required for a total toolhead plate thickness of 6.4mm: 
+6.5mm thick rails = 19.9mm
+6.0mm thick rails = 20.4mm
+5.6mm thick rails = 20.8mm
 
 The rail carriage mount only uses three bolts.  This allows the tensioner to remain installed with two bolts while the cross rails are removed so belt tension can be preserved during maintenance. 
 
@@ -19,6 +23,12 @@ Total:
 - 12mm Y total: 25.7g per side
 
 ## Updates
+### 2025-02-20
+- Added additional rail mount sizes
+  - 5.6mm thick rails
+  - 6.0mm thick rails
+- Added 21mm thick Y spacer
+
 ### 2024-10-29
 - Updated tensioners to V6.
   - Increased wall thickness for 2.4mm tapping holes to allow better fitment for helicoils.
