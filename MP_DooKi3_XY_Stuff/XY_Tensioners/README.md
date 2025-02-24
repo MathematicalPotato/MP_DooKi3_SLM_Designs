@@ -8,7 +8,7 @@ The following Y Spacer thicknesses are required for a total toolhead plate thick
 6.0mm thick rails = 20.4mm
 5.6mm thick rails = 20.8mm
 
-The rail carriage mount only uses three bolts.  This allows the tensioner to remain installed with two bolts while the cross rails are removed so belt tension can be preserved during maintenance. 
+The rail carriage mount only uses three bolts.  This allows the tensioner to remain installed with two bolts while the cross rails are removed so belt tension can be preserved during maintenance. There are many rail thickness options, it is recommended to get the size for your specific rails, however the smaller ones can be used with thicker rails if needed.  The larger options would need shims on the rails to work with smaller rails so it is not recommended to oversize.
 
 These should be the approximate weights for these parts in aluminum:
 - MP_DooKi3_SLM_XY_Tensioner_V4_10mm: 13.9g
@@ -23,6 +23,11 @@ Total:
 - 12mm Y total: 25.7g per side
 
 ## Updates
+### 2025-02-24
+- Added additional rail mount sizes
+  - 5.0mm thick rails
+  - 5.5mm thick rails
+
 ### 2025-02-20
 - Added additional rail mount sizes
   - 5.6mm thick rails
