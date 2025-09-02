@@ -10,7 +10,8 @@ Four sliders each have been combined into a single file for easier/cheaper print
 
 ## Updates
 ### 2025-09-02
-- Added lightenting cutouts to make sanding to size easier and also reduce total part weight.
+- Updated to V2
+  - Added lightenting cutouts to make sanding to size easier and also reduce total part weight.
 
 ### 2024-09-26
 - Updated thickness of sliders to require less sanding.
