@@ -9,6 +9,9 @@ These parts are oversized.  They will likely need sanded (on the side opposite t
 Four sliders each have been combined into a single file for easier/cheaper printing.  They will need cut apart and sanded/filed to remove connecting the nubs. The Z Assembly will require one 10mm and XY will require either one 10mm or one 12mm depending on the XY tensioners ordered.
 
 ## Updates
+### 2025-09-02
+- Added lightenting cutouts to make sanding to size easier and also reduce total part weight.
+
 ### 2024-09-26
 - Updated thickness of sliders to require less sanding.
 
