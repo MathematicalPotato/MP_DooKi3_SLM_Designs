@@ -7,6 +7,8 @@ All bearings have been swapped to F695 (5mm shaft) or MF148 (8mm shaft).
 
 The bearing holes are intentionally undersized.  In order to get a snug fit, you will need to first drill and then ream the holes to size.  All bearing locations have holes for M3 bolts for retention.  It is recommended to use M3x4 or M3x5 Button Head Cap Screws (BHCS).  There are 16 bearing locations and each will need 2-3 retaining bolts.  Retaining compound can also be used, but may make bearing removal difficult to impossible depending on the breakdown temperature of the compound used. 
 
+The lower idler bodies will interfere with the stock FDM printed Z idlers.  It is recommended to only use these parts if you also have the SLM Z parts.
+
 The endstops have been modeled together as one part to reduce print costs, the number of files, and to ensure they are matching heights.  The finished parts will need to be cut apart and sanded flat.  Only sand where the connecting nubs are present to avoid altering the overall length of the parts. 
 
 ### Approximate part weights
