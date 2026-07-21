@@ -49,6 +49,11 @@ You will need:
 - 4 - Couplers to attach the motor, see Annex BOM for recommendations
 
 ## Updates
+### 2026-07-21
+- Updates files to V7
+  - Changed corner radius to be less sharp/aggressive
+  - Added drawings.  These can be used with certain 3d print services that also offer CNC machining to get reaming done prior to shipment.
+
 ### 2024-10-12
 - Reuploaded XDrive_BottomRear
   - Fixed half-broken chamfers.
